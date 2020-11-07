@@ -5,11 +5,13 @@ VisualStudioVersion = 15.0.28307.902
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BulkyBook", "BulkyBook\BulkyBook.csproj", "{A6176C87-F10D-4BC9-A45A-78B81124478D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{EB9BAC79-06D9-4856-9512-4179C75803FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccess", "DataAccess\DataAccess.csproj", "{EB9BAC79-06D9-4856-9512-4179C75803FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{04D164BA-EB5D-422D-9A8C-171A8D25904E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Models", "Models\Models.csproj", "{04D164BA-EB5D-422D-9A8C-171A8D25904E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utility", "Utility\Utility.csproj", "{A85D6F4A-81E6-419B-96B5-1B1DA64D4A07}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Utility", "Utility\Utility.csproj", "{A85D6F4A-81E6-419B-96B5-1B1DA64D4A07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{B1046B60-0BF4-4C98-82AD-8A6844907555}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{A85D6F4A-81E6-419B-96B5-1B1DA64D4A07}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A85D6F4A-81E6-419B-96B5-1B1DA64D4A07}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A85D6F4A-81E6-419B-96B5-1B1DA64D4A07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1046B60-0BF4-4C98-82AD-8A6844907555}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1046B60-0BF4-4C98-82AD-8A6844907555}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1046B60-0BF4-4C98-82AD-8A6844907555}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1046B60-0BF4-4C98-82AD-8A6844907555}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
